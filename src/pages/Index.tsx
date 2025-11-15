@@ -1,12 +1,56 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { useEffect, useState } from "react";
+import Hero from "@/components/Hero";
+import Disclaimer from "@/components/Disclaimer";
+import ThreatLevel from "@/components/ThreatLevel";
+import Commandments from "@/components/Commandments";
+import DosAndDonts from "@/components/DosAndDonts";
+import Vocabulary from "@/components/Vocabulary";
+import CulturalShock from "@/components/CulturalShock";
+import AdvancedTactics from "@/components/AdvancedTactics";
+import WarningSigns from "@/components/WarningSigns";
+import EmergencyProtocols from "@/components/EmergencyProtocols";
+import Reward from "@/components/Reward";
+import Footer from "@/components/Footer";
+import FloatingChancleta from "@/components/FloatingChancleta";
 
 const Index = () => {
+  const [scrollProgress, setScrollProgress] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const totalScroll = document.documentElement.scrollHeight - window.innerHeight;
+      const currentProgress = (window.scrollY / totalScroll) * 100;
+      setScrollProgress(currentProgress);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
+    <div className="relative min-h-screen overflow-x-hidden">
+      {/* Survival meter */}
+      <div className="fixed top-0 left-0 w-full h-1 bg-border z-50">
+        <div
+          className="h-full tropical-gradient transition-all duration-300"
+          style={{ width: `${scrollProgress}%` }}
+        />
       </div>
+
+      <FloatingChancleta />
+
+      <Hero />
+      <Disclaimer />
+      <ThreatLevel />
+      <Commandments />
+      <DosAndDonts />
+      <Vocabulary />
+      <CulturalShock />
+      <AdvancedTactics />
+      <WarningSigns />
+      <EmergencyProtocols />
+      <Reward />
+      <Footer />
     </div>
   );
 };
