@@ -11,6 +11,7 @@ export default defineConfig(() => ({
   preview: {
     host: "::",
     port: 8080,
+    allowedHosts: ["surviveapuertorican.com", "www.surviveapuertorican.com"],
   },
   plugins: [react()],
   resolve: {
