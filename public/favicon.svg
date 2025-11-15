@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle with Puerto Rico flag blue -->
+  <circle cx="50" cy="50" r="50" fill="#0050F0"/>
+
+  <!-- White star representing Puerto Rico flag -->
+  <path d="M50 20 L54.5 37 L72 37 L58 48 L62.5 65 L50 54 L37.5 65 L42 48 L28 37 L45.5 37 Z" fill="white"/>
+
+  <!-- Red accent stripes -->
+  <path d="M20 75 Q35 70 50 75 T80 75" stroke="#FF0000" stroke-width="3" fill="none"/>
+  <path d="M25 85 Q40 80 50 85 T75 85" stroke="#FF0000" stroke-width="2" fill="none"/>
+</svg>
