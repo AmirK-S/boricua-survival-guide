@@ -59,6 +59,11 @@ const Hero = () => {
           Scroll Down If You Dare
           <ChevronDown className="ml-2 h-6 w-6 animate-bounce" />
         </Button>
+
+        {/* Hidden message for Shanna */}
+        <p className="mt-8 text-sm italic text-foreground/50">
+          (P.S. Shanna, every word here is true... and I wouldn't change a thing 💙)
+        </p>
       </div>
 
       {/* Bottom decoration */}

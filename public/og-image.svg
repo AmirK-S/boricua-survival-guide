@@ -1,45 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
-  <!-- Background gradient with Puerto Rico flag colors -->
+  <!-- Background gradient with warm romantic colors -->
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0050F0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#002080;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#FF6B9D;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0050F0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF1744;stop-opacity:1" />
     </linearGradient>
   </defs>
 
   <rect width="1200" height="630" fill="url(#bgGrad)"/>
 
-  <!-- Decorative elements -->
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white">
+  <!-- Main title -->
+  <text x="600" y="120" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="white" text-anchor="middle">
     How to Survive a
   </text>
-  <text x="100" y="220" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="#FF0000">
+  <text x="600" y="210" font-family="Arial, sans-serif" font-size="85" font-weight="bold" fill="#FFE000" text-anchor="middle">
     Puerto Rican Woman
   </text>
 
-  <!-- Flag icon -->
-  <circle cx="950" cy="200" r="120" fill="white" opacity="0.2"/>
-  <path d="M950 120 L970 180 L1030 180 L985 215 L1005 275 L950 240 L895 275 L915 215 L870 180 L930 180 Z" fill="white"/>
-
   <!-- Subtitle -->
-  <text x="100" y="320" font-family="Arial, sans-serif" font-size="36" fill="white" opacity="0.9">
-    The Unauthorized Survival Manual
+  <text x="600" y="270" font-family="Arial, sans-serif" font-size="32" fill="white" opacity="0.95" text-anchor="middle">
+    A French Guy's Love Letter
   </text>
 
-  <!-- Warning badge -->
-  <rect x="100" y="380" width="600" height="180" rx="20" fill="#FF0000" opacity="0.9"/>
-  <text x="400" y="440" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
-    ⚠️ WARNING ⚠️
-  </text>
-  <text x="400" y="490" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">
+  <!-- Heart divider -->
+  <text x="600" y="330" font-size="40" text-anchor="middle">❤️</text>
+
+  <!-- Description box -->
+  <rect x="150" y="360" width="900" height="200" rx="20" fill="white" opacity="0.15"/>
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">
     Side effects include: mofongo addiction,
   </text>
-  <text x="400" y="530" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">
-    spontaneous salsa dancing, and saying "wepa"
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">
+    spontaneous salsa dancing, and falling
+  </text>
+  <text x="600" y="500" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">
+    hopelessly in love with the culture
+  </text>
+  <text x="600" y="545" font-family="Arial, sans-serif" font-size="24" fill="#FFE000" text-anchor="middle" font-style="italic">
+    Made with ❤️, sofrito, and zero regrets
   </text>
 
-  <!-- Emojis -->
-  <text x="850" y="450" font-size="80">🌴</text>
-  <text x="950" y="520" font-size="80">🩴</text>
-  <text x="1050" y="450" font-size="80">🇵🇷</text>
+  <!-- Flag emojis -->
+  <text x="100" y="100" font-size="70">🇫🇷</text>
+  <text x="1050" y="100" font-size="70">🇵🇷</text>
+
+  <!-- Bottom decorative emojis -->
+  <text x="200" y="600" font-size="50">🌴</text>
+  <text x="350" y="600" font-size="50">💃</text>
+  <text x="500" y="600" font-size="50">🩴</text>
+  <text x="650" y="600" font-size="50">☕</text>
+  <text x="800" y="600" font-size="50">🥥</text>
+  <text x="950" y="600" font-size="50">💙</text>
 </svg>

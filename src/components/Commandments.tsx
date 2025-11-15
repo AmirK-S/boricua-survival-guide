@@ -91,6 +91,9 @@ const Commandments = () => {
         <h3 className="font-bebas text-3xl md:text-4xl text-center mb-12 text-accent">
           OF SURVIVAL
         </h3>
+        <p className="text-center text-sm italic text-foreground/60 mb-8">
+          (Learned the hard way, written with love 💙)
+        </p>
 
         <div className="space-y-4">
           {commandments.map((commandment, index) => (
