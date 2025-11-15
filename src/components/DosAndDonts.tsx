@@ -3,19 +3,23 @@ import { CheckCircle2, XCircle } from "lucide-react";
 const dos = [
   'Learn to say "que rico!" after every meal (you\'ll mean it)',
   "Attend EVERY family function (even the cousin's boyfriend's sister's baby shower)",
-  "Learn at least basic salsa steps before someone's wedding",
+  "Be willing to sleep in the car before catching the Vieques ferry at dawn (worth it for those beaches)",
+  "Learn at least basic salsa steps before someone's wedding (I'm still working on this)",
   "Compliment abuela's cooking (ALWAYS)",
   "Keep the house at arctic temperature (she likes the AC at 65°F)",
   'Say "provecho" when anyone is eating',
+  "Get drunk on the beach together and watch the sunset (trust me)",
   "Learn the difference between recao and cilantro (your life depends on it)",
   "Accept that rice and beans are a food group",
+  "Drive around the island together - waterfalls, beaches, random adventures",
   "Dance bachata even if you have no rhythm (trust me on this)",
   "Learn to make café con leche the right way",
   'Understand that "we\'re leaving in 5 minutes" means start getting ready in 45 minutes',
   "Agree when she says Bad Bunny is the greatest artist of all time",
   "Memorize her entire family tree (quiz incoming)",
   'Learn that "casual party" means dress nice',
-  "Accept that her mom's opinion matters more than yours"
+  "Accept that her mom's opinion matters more than yours",
+  "Be her ally. Always. It's you two together against the world."
 ];
 
 const donts = [
@@ -23,7 +27,7 @@ const donts = [
   "Compare her cooking to your mom's (unless you want war)",
   'Say you\'re "not that hungry" at family gatherings (cardinal sin)',
   'Suggest Taco Bell for "Latin food" (deportation-level offense)',
-  'Call it "Mexican music" when it\'s clearly reggaeton',
+  'Call it "Mexican music" when it\'s clearly reggaeton (though burritos are still delicious)',
   "Skip calling her mom on Mother's Day (you'll never recover)",
   'Say "Puerto Rico is basically Hawaii" (no, just... no)',
   "Criticize the cleaning style (she learned from her mom who learned from HER mom)",
@@ -31,9 +35,12 @@ const donts = [
   'Suggest she "needs to relax" (death wish)',
   "Forget important dates (her memory is PERFECT)",
   'Call plantains "bananas" (educational emergency)',
+  "Microwave Puerto Rican avocados (learn from my mistakes)",
   "Rush her when she's getting ready (impossible anyway)",
   "Talk politics unless you're 1000% sure of your facts",
-  "Suggest cutting out her family (are you insane?)"
+  "Minimize the stress of long-distance - acknowledge every sacrifice",
+  "Suggest cutting out her family (are you insane?)",
+  "Forget that you're a team - it's us together, always"
 ];
 
 const DosAndDonts = () => {

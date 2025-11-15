@@ -9,6 +9,7 @@ import CulturalShock from "@/components/CulturalShock";
 import AdvancedTactics from "@/components/AdvancedTactics";
 import WarningSigns from "@/components/WarningSigns";
 import EmergencyProtocols from "@/components/EmergencyProtocols";
+import OurStory from "@/components/OurStory";
 import Reward from "@/components/Reward";
 import Footer from "@/components/Footer";
 import FloatingChancleta from "@/components/FloatingChancleta";
@@ -51,6 +52,7 @@ const Index = () => {
       <AdvancedTactics />
       <WarningSigns />
       <EmergencyProtocols />
+      <OurStory />
       <Reward />
       <Footer />
     </div>

@@ -57,9 +57,30 @@ const Reward = () => {
               the endless laughter, and the incredible woman who changed everything. Worth every second.
             </p>
 
+            <div className="mt-8 p-6 bg-accent/10 border-2 border-accent/30 rounded-xl">
+              <p className="text-center text-md text-foreground/80 mb-4">
+                <span className="font-bold text-accent">The Real Story:</span>
+              </p>
+              <p className="text-foreground/80 leading-relaxed mb-4">
+                She flies from Puerto Rico to Paris every month to see me. Every. Single. Month.
+                Through stress, through work, through exhaustion, through almost missing flights - she still shows up.
+                The distance is hard. The time zones are brutal. Missing sleep, worrying about work, carrying the weight
+                of an ocean between us... it's not easy.
+              </p>
+              <p className="text-foreground/80 leading-relaxed mb-4">
+                But here's what I want her to know: <span className="font-bold text-primary">I see you. I see every sacrifice.
+                Every flight you catch, every hour of sleep you lose, every worry you carry.</span> And I'm coming to you.
+                2026, Puerto Rico. We'll enjoy those beaches together, drink on the sand, crack coconuts, see more waterfalls,
+                find more baby cobitos. You won't have to fly to Paris anymore. I'm coming to your island.
+              </p>
+              <p className="text-foreground/80 leading-relaxed font-bold text-center">
+                Because it's not just about surviving the distance. It's about us together. Always.
+              </p>
+            </div>
+
             <p className="text-center italic text-md text-accent/80 mt-6">
               Shanna, you made me understand that love isn't about surviving – it's about living fully.
-              Je t'aime, mi amor. 💙❤️
+              Thank you for every flight, every sacrifice, every moment. Je t'aime, mi amor. 💙❤️
             </p>
 
             <p className="text-center text-5xl font-bebas text-primary mt-12 mb-8">

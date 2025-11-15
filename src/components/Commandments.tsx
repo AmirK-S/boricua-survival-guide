@@ -10,7 +10,7 @@ const commandments = [
   {
     number: 2,
     title: "HER FAMILY IS NOW YOUR FAMILY (NO ESCAPE)",
-    content: `You thought you were dating one person? WRONG. You're dating her mom, her abuela, her tías, her primas, her primo's girlfriend's sister, and someone called "Papo" whose actual relation remains unclear. Sunday dinners aren't optional. They're federal law. You WILL attend. You WILL eat. You WILL be interrogated about your intentions. Resistance is futile.`
+    content: `You thought you were dating one person? WRONG. You're dating her mom, her abuela, her tías, her primas, her sister, her primo's girlfriend's sister, and someone called "Papo" whose actual relation remains unclear. Sunday dinners aren't optional. They're federal law. You WILL attend. You WILL eat. You WILL be interrogated about your intentions. Resistance is futile. (And honestly? Meeting her mom and sister and everyone was one of the best parts. They welcomed me with open arms.)`
   },
   {
     number: 3,
@@ -20,7 +20,7 @@ const commandments = [
   {
     number: 4,
     title: "THE KITCHEN IS SACRED GROUND",
-    content: `Never - and I mean NEVER - suggest ordering pizza when she's offering to cook. That's basically filing for divorce. You eat what she makes. You eat ALL of it. You ask for seconds even if you're full. You compliment the sazón. You learn that sofrito is the foundation of civilization. Also, if you ever say "I'm not hungry" before a family gathering, she will look at you like you just spoke in tongues.`
+    content: `Never - and I mean NEVER - suggest ordering pizza when she's offering to cook. That's basically filing for divorce. You eat what she makes. You eat ALL of it. You ask for seconds even if you're full. You compliment the sazón. You learn that sofrito is the foundation of civilization. Also, if you ever say "I'm not hungry" before a family gathering, she will look at you like you just spoke in tongues. (Pro tip: Walmart chicken and garlic bread make INCREDIBLE sandwiches when she makes them. Trust me on this.)`
   },
   {
     number: 5,
@@ -40,12 +40,12 @@ const commandments = [
   {
     number: 8,
     title: "PUERTO RICO IS PARADISE (END OF DISCUSSION)",
-    content: `Your hometown? Cute. Your favorite vacation spot? Nice try. But nothing - and I mean NOTHING - compares to La Isla del Encanto. Don't even try. The beaches are better. The food is superior. The people are warmer. The music is superior. This is not up for debate. Accept it. Agree enthusiastically. Your life will be easier.`
+    content: `Your hometown? Cute. Your favorite vacation spot? Nice try. But nothing - and I mean NOTHING - compares to La Isla del Encanto. Don't even try. The beaches are better. The food is superior. The people are warmer. The music is superior. This is not up for debate. Accept it. Agree enthusiastically. Your life will be easier. (She's right though. Vieques beaches with nobody around, waterfalls you can swim in, cobitos on the shore... Paris has the Eiffel Tower. Puerto Rico has everything else.)`
   },
   {
     number: 9,
     title: "DANCE OR DIE",
-    content: `You can't dance? Learn. Can't salsa? Take classes. Have two left feet? Doesn't matter - you're dancing anyway. At weddings, at random family parties, at the grocery store if Bad Bunny comes on. Reggaeton is not optional. Your hips will learn to lie whether they want to or not. She will drag you to the dance floor. Resistance only makes it worse.`
+    content: `You can't dance? Learn. Can't salsa? Take classes. Have two left feet? Doesn't matter - you're dancing anyway. At weddings, at random family parties, at the grocery store if Bad Bunny comes on. Reggaeton is not optional. Your hips will learn to lie whether they want to or not. She will drag you to the dance floor. Resistance only makes it worse. (Full disclosure: I haven't mastered salsa yet, but I'm working on it. The effort counts, right?)`
   },
   {
     number: 10,
@@ -69,8 +69,8 @@ const commandments = [
   },
   {
     number: 14,
-    title: "PLANTAINS > YOUR ENTIRE CUISINE",
-    content: `Tostones, amarillos, mofongo, pastelón - plantains in every form are superior to anything you've ever eaten. Accept this. She can make 47 different plantain dishes. You will learn to love them all. Your previous relationship with potatoes will seem quaint and inadequate.`
+    title: "MANGOS, AVOCADOS & TROPICAL FRUIT SUPREMACY",
+    content: `Tostones, amarillos, mofongo, pastelón - plantains in every form are superior to anything you've ever eaten. But let's talk about the REAL addictions: mangos and avocados. The avocados there? Life-changing. The mangos? I'm fully addicted now. Fresh coconuts cracked on the beach? Unforgettable. Important lesson learned: NEVER microwave a Puerto Rican avocado. Just... don't. Trust me. Your previous relationship with fruit will seem bland and inadequate.`
   },
   {
     number: 15,
