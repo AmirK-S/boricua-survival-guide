@@ -12,7 +12,7 @@ export default defineConfig(() => ({
     host: "0.0.0.0",
     port: 4173,
     strictPort: false,
-    allowedHosts: [".surviveapuertorican.com", "surviveapuertorican.com", "www.surviveapuertorican.com", "localhost"],
+    allowedHosts: true,
   },
   plugins: [react()],
   resolve: {
