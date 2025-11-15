@@ -57,6 +57,11 @@ const Reward = () => {
               the endless laughter, and the incredible woman who changed everything. Worth every second.
             </p>
 
+            <p className="text-center italic text-md text-accent/80 mt-6">
+              Shanna, you made me understand that love isn't about surviving – it's about living fully.
+              Je t'aime, mi amor. 💙❤️
+            </p>
+
             <p className="text-center text-5xl font-bebas text-primary mt-12 mb-8">
               ¡WEPA!
             </p>
