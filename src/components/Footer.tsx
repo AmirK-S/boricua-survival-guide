@@ -71,7 +71,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <p className="mt-8 text-sm text-foreground/50">
-          © 2025 Survival Guide Archives • Made with Lovable
+          © 2025 Boricua Survival Guide • Made with love, cafecito, and a little bit of fear
         </p>
       </div>
 
