@@ -52,6 +52,11 @@ const Reward = () => {
               <span className="text-secondary">She transforms you.</span> And you wouldn't have it any other way.
             </p>
 
+            <p className="text-center italic text-lg text-foreground/70 mt-8">
+              From France with love, this guide is my love letter to the beautiful chaos,
+              the endless laughter, and the incredible woman who changed everything. Worth every second.
+            </p>
+
             <p className="text-center text-5xl font-bebas text-primary mt-12 mb-8">
               ¡WEPA!
             </p>

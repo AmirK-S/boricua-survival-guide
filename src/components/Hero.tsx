@@ -34,7 +34,7 @@ const Hero = () => {
         </h1>
 
         <h2 className="text-2xl md:text-3xl font-bold mb-8 text-foreground/80">
-          The Unauthorized Survival Manual
+          A French Guy's Unauthorized Survival Manual
         </h2>
 
         {/* Warning text */}
@@ -43,8 +43,9 @@ const Hero = () => {
             <span className="font-bold text-accent">Reading this guide does not guarantee survival.</span>
             <br />
             <span className="text-foreground/90">
-              Side effects include: addiction to mofongo, spontaneous salsa dancing, 
-              and saying <span className="spanish-text">"wepa"</span> in inappropriate situations.
+              Side effects include: addiction to mofongo, spontaneous salsa dancing,
+              saying <span className="spanish-text">"wepa"</span> in inappropriate situations, and falling
+              hopelessly in love with the culture.
             </span>
           </p>
         </div>

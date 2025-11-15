@@ -1,7 +1,7 @@
 import { CheckCircle2, XCircle } from "lucide-react";
 
 const dos = [
-  'Learn to say "que rico!" after every meal',
+  'Learn to say "que rico!" after every meal (you\'ll mean it)',
   "Attend EVERY family function (even the cousin's boyfriend's sister's baby shower)",
   "Learn at least basic salsa steps before someone's wedding",
   "Compliment abuela's cooking (ALWAYS)",
@@ -9,7 +9,7 @@ const dos = [
   'Say "provecho" when anyone is eating',
   "Learn the difference between recao and cilantro (your life depends on it)",
   "Accept that rice and beans are a food group",
-  "Dance bachata even if you have no rhythm",
+  "Dance bachata even if you have no rhythm (trust me on this)",
   "Learn to make café con leche the right way",
   'Understand that "we\'re leaving in 5 minutes" means start getting ready in 45 minutes',
   "Agree when she says Bad Bunny is the greatest artist of all time",

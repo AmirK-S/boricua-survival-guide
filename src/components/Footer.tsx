@@ -18,11 +18,11 @@ const Footer = () => {
       <div className="relative z-10 max-w-4xl mx-auto text-center">
         {/* Main text */}
         <p className="text-2xl md:text-3xl font-bold mb-4 text-foreground">
-          Made with ❤️, sofrito, sarcasm, and survival instinct
+          Made with ❤️, sofrito, love, and survival instinct
         </p>
 
         <p className="text-xl mb-8 text-accent italic">
-          "Still alive (barely)"
+          "Still alive (happily surrendered)"
         </p>
 
         {/* Easter egg button */}
@@ -62,16 +62,17 @@ const Footer = () => {
         {/* Final disclaimer */}
         <div className="max-w-3xl mx-auto p-6 bg-card/50 border-2 border-border rounded-xl">
           <p className="text-sm text-foreground/70 leading-relaxed">
-            <span className="font-bold">Disclaimer:</span> All stereotypes are exaggerated for comedic effect. 
-            Except the sofrito part. That's 100% real. This guide is a love letter to Puerto Rican women 
-            and the beautiful, chaotic, passionate culture they share with those lucky enough to be part of their lives. 
+            <span className="font-bold">Disclaimer:</span> All stereotypes are exaggerated for comedic effect.
+            Except the sofrito part. That's 100% real. This guide is a love letter to Puerto Rican women
+            and the beautiful, chaotic, passionate culture they share with those lucky enough to be part of their lives.
+            Made with love from a French guy who wouldn't change a thing.
             <span className="spanish-text"> ¡Que viva Puerto Rico!</span> 🇵🇷
           </p>
         </div>
 
         {/* Copyright */}
         <p className="mt-8 text-sm text-foreground/50">
-          © 2025 Boricua Survival Guide • Made with love, cafecito, and a little bit of fear
+          © 2025 Boricua Survival Guide • Made with love, cafecito, and zero regrets
         </p>
       </div>
 

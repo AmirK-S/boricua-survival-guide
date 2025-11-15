@@ -13,7 +13,7 @@ const tactics = [
       'Step 1: Say "You\'re right, mi amor"',
       "Step 2: There is no step 2, you already won by surrendering",
       "Alternative strategy: Distract with food offers",
-      "Last resort: Blame it on being tired/hungry/confused",
+      "Last resort: Blame it on being tired/hungry/confused (works surprisingly well)",
       "Never attempt: Logic and reason (will backfire spectacularly)"
     ]
   },
