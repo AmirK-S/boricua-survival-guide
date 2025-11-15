@@ -35,7 +35,7 @@ const commandments = [
   {
     number: 7,
     title: "YOU'RE ALWAYS WRONG",
-    content: `Even when you're right, you're wrong. This is non-negotiable. Apologize first, ask questions later. "You're right, mi amor" should become your default setting. Arguing is cardio, but winning is impossible. Save your energy. She's been training for debates since birth. You're outmatched.`
+    content: `Even when you're right, you're wrong. This is non-negotiable. Apologize first, ask questions later. "You're right, mi amor" should become your default setting. Arguing is cardio, but winning is impossible. Save your energy. She's been training for debates since birth. You're outmatched. (Pro tip from experience: just agree and save yourself the trouble.)`
   },
   {
     number: 8,
@@ -60,7 +60,7 @@ const commandments = [
   {
     number: 12,
     title: "HURRICANE SEASON HAS NOTHING ON HER EMOTIONS",
-    content: `She loves at Category 5 intensity. She fights with the fury of María. She cares with the force of a tropical storm. Everything is passionate. Everything is intense. There is no "medium setting." You wanted calm and collected? Wrong island, buddy. Embrace the beautiful chaos. It's never boring.`
+    content: `She loves at Category 5 intensity. She fights with the fury of María. She cares with the force of a tropical storm. Everything is passionate. Everything is intense. There is no "medium setting." You wanted calm and collected? Wrong island, buddy. Embrace the beautiful chaos. It's never boring. And honestly? You wouldn't want it any other way.`
   },
   {
     number: 13,

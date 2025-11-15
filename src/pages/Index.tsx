@@ -13,6 +13,8 @@ import Reward from "@/components/Reward";
 import Footer from "@/components/Footer";
 import FloatingChancleta from "@/components/FloatingChancleta";
 
+// Made with love for Shanna ❤️ - Worth every beautiful, chaotic moment
+
 const Index = () => {
   const [scrollProgress, setScrollProgress] = useState(0);
 

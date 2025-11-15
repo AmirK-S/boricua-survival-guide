@@ -14,8 +14,8 @@ const Disclaimer = () => {
 
           <div className="space-y-4 text-lg">
             <p className="font-bold text-foreground">
-              ⚠️ WARNING: This guide was written by someone who clearly did NOT survive. 
-              Proceed with caution, arroz con gandules, and an open heart.
+              ⚠️ WARNING: This guide was written by a French guy who clearly did NOT survive
+              (but happily surrendered). Proceed with caution, arroz con gandules, and an open heart.
             </p>
 
             <p className="text-foreground/90">
